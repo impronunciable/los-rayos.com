@@ -5,7 +5,7 @@ date: 2020-30-12T12:41:02-03:00
 author: Ioni
 template: post
 draft: false
-description: ""
+description: "Hace 30 años John Hughes y Chris Columbus se juntaron para crear una obra maestra de la navidad llamada Home Alone (Mi Pobre Angelito, para esta parte del mundo)."
 guid: https://los-rayos.com/?p=3676
 slug: /la-venganza-de-macoli/
 category: Desvaríos
